@@ -199,9 +199,9 @@ def write_summary(sum_str):
 #           THE DOCUMENT BY CLICKING THE next BUTTON
 def main():
 
-    # while not is_done():
-    #     print("not done yet")
-    #     time.sleep(read_speed * 30)
+    while not is_done():
+        print("not done yet")
+        time.sleep(read_speed * 30)
 
     find_first_conv()
     while not is_done():
