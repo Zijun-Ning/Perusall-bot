@@ -10,7 +10,7 @@ Please fork this project for future improvements
 <br /><br />
 
 # Requirements
-  0. install all the required python libraries
+  0. Install all the required python libraries
   1. Use the primary display of computer
   2. Open Perusall and QuillBot [<https://quillbot.com/summarize>] in your browser of choice
   3. Take the following screenshots and name them correspondingly(see screenshots section in readme)
