@@ -1,6 +1,7 @@
 PERUSALL BOT Version 1.0
 ========================
 An approach using computer vision<br />
+Read, comment, and like automatically<br />
 By Zijun Ning<br /><br />
 
 # Notes
