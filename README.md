@@ -24,9 +24,9 @@ Please fork this project for future improvements
   Example screenshots are included in this GitHub repository<br />
   Make sure to trim the screenshots as small as possible to ensure the best performance<br />
   Detailed screenshot instructions are<br />
-  ![](/Resources/SCREENSHOT_INSTRUCTION_1.png)<br />
-  ![](/Resources/SCREENSHOT_INSTRUCTION_2.png)<br />
-  ![](/Resources/SCREENSHOT_INSTRUCTION_3.png)<br />
+  ![](/instructions/SCREENSHOT_INSTRUCTION_1.png)<br />
+  ![](/instructions/SCREENSHOT_INSTRUCTION_2.png)<br />
+  ![](/instructions/SCREENSHOT_INSTRUCTION_3.png)<br />
 
 <br /><br />
 
